@@ -1,0 +1,6 @@
+[submodule "sources_non_forked/c.vim"]
+	path = sources_non_forked/c.vim
+	url = https://github.com/vim-scripts/c.vim
+[submodule "sources_non_forked/vimtex"]
+	path = sources_non_forked/vimtex
+	url = https://github.com/lervag/vimtex
